@@ -1,2 +1,2 @@
 # firstrepositoryfood
-https://raw.githubusercontent.com/assonator/firstrepositoryfood/main/
+https://raw.githubusercontent.com/assonator/firstrepositoryfood/main/file.vrm
